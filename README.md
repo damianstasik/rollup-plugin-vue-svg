@@ -2,6 +2,9 @@
 <p align="center">Rollup plugin that allows to use SVG files as Vue Components</p>
 
 ## Instalation
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/visualfanatic/rollup-plugin-vue-svg.svg)](https://greenkeeper.io/)
+
 ``` bash
 npm i -D rollup-plugin-vue-svg
 
