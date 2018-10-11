@@ -15,7 +15,6 @@ export default function svg(options = {}) {
       const code = await svgToVue(content, {
         svgoConfig: svgo,
         svgoPath: id,
-        esmExport: true,
       });
 
       return {
