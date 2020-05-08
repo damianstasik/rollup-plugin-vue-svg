@@ -13,7 +13,7 @@
   "author": "Damian Stasik <npm@coded.pl>",
   "main": "index.js",
   "dependencies": {
-    "rollup-plugin-vue": "^4.3.2",
+    "rollup-plugin-vue": "^5.1.6",
     "rollup-pluginutils": "^2.3.3",
     "svg-to-vue": "^0.3.0"
   },
